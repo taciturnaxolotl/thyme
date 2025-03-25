@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "marbastlib-promicroish")(type "KiCad")(uri "${KIPRJMOD}/libraries/marbastlib-promicroish.kicad_sym")(options "")(descr ""))
+)
