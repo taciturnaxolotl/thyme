@@ -37,7 +37,7 @@
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
-		(grid_origin 14.75 37.35)
+		(grid_origin 273.5 45.85)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -65,6 +65,7 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
+			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -186,13 +187,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "00c48024-f9c0-408f-a44a-a1a58df3071d")
-		(at 204.45 129.5)
+		(at 273.5 79.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW24"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "e5056dbb-a51f-4e1d-aa50-8b9d79c5e199")
+			(uuid "78d8f989-0e35-45c5-82cb-bfc33dd16d75")
 			(effects
 				(font
 					(size 1 1)
@@ -203,7 +204,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "7ced9419-eb87-4b23-9fff-1a4703e14a9e")
+			(uuid "cceecbb5-2fe5-42e4-98be-8c6fa215d161")
 			(effects
 				(font
 					(size 1 1)
@@ -215,7 +216,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "64519ad1-718c-4253-9bc0-302f995d2cda")
+			(uuid "f6a0f475-428c-4f3e-90a0-88a4970d4fcb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -227,7 +228,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "562020fb-0759-436c-89bf-331ffafcc70f")
+			(uuid "bddcee9e-3d54-4d20-8dd8-b4365f0d2632")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -517,7 +518,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "01784e2a-6017-4b87-b388-7360dafafb13")
-		(at 42.75 63.275)
+		(at 41.75 62.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW5"
@@ -848,13 +849,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "05619a46-3b7d-41f7-a0d0-a44448356938")
-		(at 221 96.4)
+		(at 237.5 45.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW28"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "5dd85d2e-07b1-4ddc-a0d2-4dbc99013952")
+			(uuid "69ec82f5-f926-487c-ab63-2dc99c8d1300")
 			(effects
 				(font
 					(size 1 1)
@@ -865,7 +866,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "dce02ef9-4bd2-47dd-9edd-2b1684b5cdfd")
+			(uuid "9b7e72c5-92f2-4b4b-b0d9-26294498f26b")
 			(effects
 				(font
 					(size 1 1)
@@ -877,7 +878,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "59555b50-a424-4d09-8575-10051130886a")
+			(uuid "c4854b57-0722-40c4-98a4-fc78e390731f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -889,7 +890,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "69154c02-0c78-43e5-b01a-e14602972f0d")
+			(uuid "c57b30d5-a604-4403-9b31-b2f06fe705a0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1179,7 +1180,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "07d75cc3-26b3-4f45-9796-f9ef46dfa4aa")
-		(at 80 79.85)
+		(at 95.75 79.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW15"
@@ -1510,7 +1511,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "088c6668-cbbe-4196-8a79-a855c8a3dae2")
-		(at 63.45 129.5)
+		(at 77.75 79.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW12"
@@ -1841,7 +1842,7 @@
 	(footprint "libraries:SuperMini NRF52840"
 		(layer "F.Cu")
 		(uuid "0c8b23b8-a4e3-4e15-ba21-98450141c84b")
-		(at 159.592342 37.52)
+		(at 155.683018 39.281587)
 		(property "Reference" "U2"
 			(at 0 33.02 0)
 			(unlocked yes)
@@ -2911,10 +2912,10 @@
 			)
 			(polygon
 				(pts
-					(xy 162.834718 41.88367) (xy 162.796029 41.94387) (xy 162.730936 41.973597) (xy 162.660104 41.963413)
-					(xy 162.606023 41.916551) (xy 162.585862 41.84789) (xy 162.585862 35.56647) (xy 162.591006 35.53069)
-					(xy 162.629695 35.47049) (xy 162.694788 35.440763) (xy 162.76562 35.450947) (xy 162.819701 35.497809)
-					(xy 162.839862 35.56647) (xy 162.839862 41.84789)
+					(xy 158.925394 43.645257) (xy 158.886705 43.705457) (xy 158.821612 43.735184) (xy 158.75078 43.725)
+					(xy 158.696699 43.678138) (xy 158.676538 43.609477) (xy 158.676538 37.328057) (xy 158.681682 37.292277)
+					(xy 158.720371 37.232077) (xy 158.785464 37.20235) (xy 158.856296 37.212534) (xy 158.910377 37.259396)
+					(xy 158.930538 37.328057) (xy 158.930538 43.609477)
 				)
 			)
 		)
@@ -2946,10 +2947,10 @@
 			)
 			(polygon
 				(pts
-					(xy 162.834718 41.88367) (xy 162.796029 41.94387) (xy 162.730936 41.973597) (xy 162.660104 41.963413)
-					(xy 162.606023 41.916551) (xy 162.585862 41.84789) (xy 162.585862 35.56647) (xy 162.591006 35.53069)
-					(xy 162.629695 35.47049) (xy 162.694788 35.440763) (xy 162.76562 35.450947) (xy 162.819701 35.497809)
-					(xy 162.839862 35.56647) (xy 162.839862 41.84789)
+					(xy 158.925394 43.645257) (xy 158.886705 43.705457) (xy 158.821612 43.735184) (xy 158.75078 43.725)
+					(xy 158.696699 43.678138) (xy 158.676538 43.609477) (xy 158.676538 37.328057) (xy 158.681682 37.292277)
+					(xy 158.720371 37.232077) (xy 158.785464 37.20235) (xy 158.856296 37.212534) (xy 158.910377 37.259396)
+					(xy 158.930538 37.328057) (xy 158.930538 43.609477)
 				)
 			)
 		)
@@ -2981,10 +2982,10 @@
 			)
 			(polygon
 				(pts
-					(xy 171.747862 41.726034) (xy 171.808062 41.764723) (xy 171.837789 41.829816) (xy 171.827605 41.900648)
-					(xy 171.780743 41.954729) (xy 171.712082 41.97489) (xy 162.712862 41.97489) (xy 162.677082 41.969746)
-					(xy 162.616882 41.931057) (xy 162.587155 41.865964) (xy 162.597339 41.795132) (xy 162.644201 41.741051)
-					(xy 162.712862 41.72089) (xy 171.712082 41.72089)
+					(xy 167.838538 43.487621) (xy 167.898738 43.52631) (xy 167.928465 43.591403) (xy 167.918281 43.662235)
+					(xy 167.871419 43.716316) (xy 167.802758 43.736477) (xy 158.803538 43.736477) (xy 158.767758 43.731333)
+					(xy 158.707558 43.692644) (xy 158.677831 43.627551) (xy 158.688015 43.556719) (xy 158.734877 43.502638)
+					(xy 158.803538 43.482477) (xy 167.802758 43.482477)
 				)
 			)
 		)
@@ -3016,10 +3017,10 @@
 			)
 			(polygon
 				(pts
-					(xy 171.747862 41.726034) (xy 171.808062 41.764723) (xy 171.837789 41.829816) (xy 171.827605 41.900648)
-					(xy 171.780743 41.954729) (xy 171.712082 41.97489) (xy 162.712862 41.97489) (xy 162.677082 41.969746)
-					(xy 162.616882 41.931057) (xy 162.587155 41.865964) (xy 162.597339 41.795132) (xy 162.644201 41.741051)
-					(xy 162.712862 41.72089) (xy 171.712082 41.72089)
+					(xy 167.838538 43.487621) (xy 167.898738 43.52631) (xy 167.928465 43.591403) (xy 167.918281 43.662235)
+					(xy 167.871419 43.716316) (xy 167.802758 43.736477) (xy 158.803538 43.736477) (xy 158.767758 43.731333)
+					(xy 158.707558 43.692644) (xy 158.677831 43.627551) (xy 158.688015 43.556719) (xy 158.734877 43.502638)
+					(xy 158.803538 43.482477) (xy 167.802758 43.482477)
 				)
 			)
 		)
@@ -3051,10 +3052,10 @@
 			)
 			(polygon
 				(pts
-					(xy 171.833938 41.88367) (xy 171.795249 41.94387) (xy 171.730156 41.973597) (xy 171.659324 41.963413)
-					(xy 171.605243 41.916551) (xy 171.585082 41.84789) (xy 171.585082 35.56647) (xy 171.590226 35.53069)
-					(xy 171.628915 35.47049) (xy 171.694008 35.440763) (xy 171.76484 35.450947) (xy 171.818921 35.497809)
-					(xy 171.839082 35.56647) (xy 171.839082 41.84789)
+					(xy 167.924614 43.645257) (xy 167.885925 43.705457) (xy 167.820832 43.735184) (xy 167.75 43.725)
+					(xy 167.695919 43.678138) (xy 167.675758 43.609477) (xy 167.675758 37.328057) (xy 167.680902 37.292277)
+					(xy 167.719591 37.232077) (xy 167.784684 37.20235) (xy 167.855516 37.212534) (xy 167.909597 37.259396)
+					(xy 167.929758 37.328057) (xy 167.929758 43.609477)
 				)
 			)
 		)
@@ -3086,10 +3087,10 @@
 			)
 			(polygon
 				(pts
-					(xy 171.833938 41.88367) (xy 171.795249 41.94387) (xy 171.730156 41.973597) (xy 171.659324 41.963413)
-					(xy 171.605243 41.916551) (xy 171.585082 41.84789) (xy 171.585082 35.56647) (xy 171.590226 35.53069)
-					(xy 171.628915 35.47049) (xy 171.694008 35.440763) (xy 171.76484 35.450947) (xy 171.818921 35.497809)
-					(xy 171.839082 35.56647) (xy 171.839082 41.84789)
+					(xy 167.924614 43.645257) (xy 167.885925 43.705457) (xy 167.820832 43.735184) (xy 167.75 43.725)
+					(xy 167.695919 43.678138) (xy 167.675758 43.609477) (xy 167.675758 37.328057) (xy 167.680902 37.292277)
+					(xy 167.719591 37.232077) (xy 167.784684 37.20235) (xy 167.855516 37.212534) (xy 167.909597 37.259396)
+					(xy 167.929758 37.328057) (xy 167.929758 43.609477)
 				)
 			)
 		)
@@ -8331,13 +8332,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "3b7f34db-9292-43db-bae2-3029423d47ae")
-		(at 237.55 96.4)
+		(at 201.5 45.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW34"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "4677431d-1f69-4562-98e4-4ebad54a112c")
+			(uuid "3f423073-02b4-42dc-933a-32edf4d43dfd")
 			(effects
 				(font
 					(size 1 1)
@@ -8348,7 +8349,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "6be1e88d-7589-4338-a0b6-603d9b302dc3")
+			(uuid "25bed878-6ae1-4acd-a7ff-e61c62001084")
 			(effects
 				(font
 					(size 1 1)
@@ -8360,7 +8361,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "459c227e-b1e9-4880-a5d6-e5769db309e7")
+			(uuid "9a93615f-7e7a-4055-9de5-2c9210f3a0c0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8372,7 +8373,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "560ac584-463f-4a30-8c28-ef6e9ab761ee")
+			(uuid "1d497f9b-b506-44de-a888-3f3029885e0e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9035,7 +9036,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "3da1fc29-2a95-40dc-9e9c-3870c795dede")
-		(at 96.55 63.3)
+		(at 113.75 96.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW20"
@@ -10858,7 +10859,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "466b4530-b97f-4b1c-b3a1-13fd2af91fc9")
-		(at 63.45 46.75)
+		(at 59.75 45.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW7"
@@ -11935,7 +11936,7 @@
 	(footprint "libraries:SuperMini NRF52840"
 		(layer "F.Cu")
 		(uuid "505a0f06-d9c2-4312-b066-6be3929074a8")
-		(at 126 37.52001)
+		(at 126.487099 39.328449)
 		(property "Reference" "U1"
 			(at 0 33.02 0)
 			(unlocked yes)
@@ -13005,10 +13006,10 @@
 			)
 			(polygon
 				(pts
-					(xy 129.242376 41.88368) (xy 129.203687 41.94388) (xy 129.138594 41.973607) (xy 129.067762 41.963423)
-					(xy 129.013681 41.916561) (xy 128.99352 41.8479) (xy 128.99352 35.56648) (xy 128.998664 35.5307)
-					(xy 129.037353 35.4705) (xy 129.102446 35.440773) (xy 129.173278 35.450957) (xy 129.227359 35.497819)
-					(xy 129.24752 35.56648) (xy 129.24752 41.8479)
+					(xy 129.729475 43.692119) (xy 129.690786 43.752319) (xy 129.625693 43.782046) (xy 129.554861 43.771862)
+					(xy 129.50078 43.725) (xy 129.480619 43.656339) (xy 129.480619 37.374919) (xy 129.485763 37.339139)
+					(xy 129.524452 37.278939) (xy 129.589545 37.249212) (xy 129.660377 37.259396) (xy 129.714458 37.306258)
+					(xy 129.734619 37.374919) (xy 129.734619 43.656339)
 				)
 			)
 		)
@@ -13040,10 +13041,10 @@
 			)
 			(polygon
 				(pts
-					(xy 129.242376 41.88368) (xy 129.203687 41.94388) (xy 129.138594 41.973607) (xy 129.067762 41.963423)
-					(xy 129.013681 41.916561) (xy 128.99352 41.8479) (xy 128.99352 35.56648) (xy 128.998664 35.5307)
-					(xy 129.037353 35.4705) (xy 129.102446 35.440773) (xy 129.173278 35.450957) (xy 129.227359 35.497819)
-					(xy 129.24752 35.56648) (xy 129.24752 41.8479)
+					(xy 129.729475 43.692119) (xy 129.690786 43.752319) (xy 129.625693 43.782046) (xy 129.554861 43.771862)
+					(xy 129.50078 43.725) (xy 129.480619 43.656339) (xy 129.480619 37.374919) (xy 129.485763 37.339139)
+					(xy 129.524452 37.278939) (xy 129.589545 37.249212) (xy 129.660377 37.259396) (xy 129.714458 37.306258)
+					(xy 129.734619 37.374919) (xy 129.734619 43.656339)
 				)
 			)
 		)
@@ -13075,10 +13076,10 @@
 			)
 			(polygon
 				(pts
-					(xy 138.15552 41.726044) (xy 138.21572 41.764733) (xy 138.245447 41.829826) (xy 138.235263 41.900658)
-					(xy 138.188401 41.954739) (xy 138.11974 41.9749) (xy 129.12052 41.9749) (xy 129.08474 41.969756)
-					(xy 129.02454 41.931067) (xy 128.994813 41.865974) (xy 129.004997 41.795142) (xy 129.051859 41.741061)
-					(xy 129.12052 41.7209) (xy 138.11974 41.7209)
+					(xy 138.642619 43.534483) (xy 138.702819 43.573172) (xy 138.732546 43.638265) (xy 138.722362 43.709097)
+					(xy 138.6755 43.763178) (xy 138.606839 43.783339) (xy 129.607619 43.783339) (xy 129.571839 43.778195)
+					(xy 129.511639 43.739506) (xy 129.481912 43.674413) (xy 129.492096 43.603581) (xy 129.538958 43.5495)
+					(xy 129.607619 43.529339) (xy 138.606839 43.529339)
 				)
 			)
 		)
@@ -13110,10 +13111,10 @@
 			)
 			(polygon
 				(pts
-					(xy 138.15552 41.726044) (xy 138.21572 41.764733) (xy 138.245447 41.829826) (xy 138.235263 41.900658)
-					(xy 138.188401 41.954739) (xy 138.11974 41.9749) (xy 129.12052 41.9749) (xy 129.08474 41.969756)
-					(xy 129.02454 41.931067) (xy 128.994813 41.865974) (xy 129.004997 41.795142) (xy 129.051859 41.741061)
-					(xy 129.12052 41.7209) (xy 138.11974 41.7209)
+					(xy 138.642619 43.534483) (xy 138.702819 43.573172) (xy 138.732546 43.638265) (xy 138.722362 43.709097)
+					(xy 138.6755 43.763178) (xy 138.606839 43.783339) (xy 129.607619 43.783339) (xy 129.571839 43.778195)
+					(xy 129.511639 43.739506) (xy 129.481912 43.674413) (xy 129.492096 43.603581) (xy 129.538958 43.5495)
+					(xy 129.607619 43.529339) (xy 138.606839 43.529339)
 				)
 			)
 		)
@@ -13145,10 +13146,10 @@
 			)
 			(polygon
 				(pts
-					(xy 138.241596 41.88368) (xy 138.202907 41.94388) (xy 138.137814 41.973607) (xy 138.066982 41.963423)
-					(xy 138.012901 41.916561) (xy 137.99274 41.8479) (xy 137.99274 35.56648) (xy 137.997884 35.5307)
-					(xy 138.036573 35.4705) (xy 138.101666 35.440773) (xy 138.172498 35.450957) (xy 138.226579 35.497819)
-					(xy 138.24674 35.56648) (xy 138.24674 41.8479)
+					(xy 138.728695 43.692119) (xy 138.690006 43.752319) (xy 138.624913 43.782046) (xy 138.554081 43.771862)
+					(xy 138.5 43.725) (xy 138.479839 43.656339) (xy 138.479839 37.374919) (xy 138.484983 37.339139)
+					(xy 138.523672 37.278939) (xy 138.588765 37.249212) (xy 138.659597 37.259396) (xy 138.713678 37.306258)
+					(xy 138.733839 37.374919) (xy 138.733839 43.656339)
 				)
 			)
 		)
@@ -13180,10 +13181,10 @@
 			)
 			(polygon
 				(pts
-					(xy 138.241596 41.88368) (xy 138.202907 41.94388) (xy 138.137814 41.973607) (xy 138.066982 41.963423)
-					(xy 138.012901 41.916561) (xy 137.99274 41.8479) (xy 137.99274 35.56648) (xy 137.997884 35.5307)
-					(xy 138.036573 35.4705) (xy 138.101666 35.440773) (xy 138.172498 35.450957) (xy 138.226579 35.497819)
-					(xy 138.24674 35.56648) (xy 138.24674 41.8479)
+					(xy 138.728695 43.692119) (xy 138.690006 43.752319) (xy 138.624913 43.782046) (xy 138.554081 43.771862)
+					(xy 138.5 43.725) (xy 138.479839 43.656339) (xy 138.479839 37.374919) (xy 138.484983 37.339139)
+					(xy 138.523672 37.278939) (xy 138.588765 37.249212) (xy 138.659597 37.259396) (xy 138.713678 37.306258)
+					(xy 138.733839 37.374919) (xy 138.733839 43.656339)
 				)
 			)
 		)
@@ -13203,13 +13204,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "5771face-72af-4c25-98a9-9a74ab32d73c")
-		(at 237.55 63.3)
+		(at 219.5 62.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW32"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "72dc8147-88d6-40db-b659-b441d10a70f9")
+			(uuid "dfbf0d75-5adf-465c-bb0e-3bff66ce0064")
 			(effects
 				(font
 					(size 1 1)
@@ -13220,7 +13221,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "762ff128-1036-41d6-9f75-7beb0d805725")
+			(uuid "ab773b3b-ee0b-4fc8-9853-0baee7c69519")
 			(effects
 				(font
 					(size 1 1)
@@ -13232,7 +13233,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3eb8b257-9e23-4638-a426-cd8308982a6a")
+			(uuid "fc0f76de-447e-4abf-bb1a-b7825357dadc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13244,7 +13245,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "83a4e8dd-e26e-40d3-8d90-a71cebdd3111")
+			(uuid "12055a10-ae27-44b8-8970-2d8fb578905f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13534,7 +13535,7 @@
 	(footprint "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
 		(layer "F.Cu")
 		(uuid "5baeb413-1f07-4a0f-9c5c-8ef604943c52")
-		(at 172.375 74.375)
+		(at 167.75 74.375)
 		(descr "JST PH series connector, B2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH side entry")
 		(property "Reference" "J2"
@@ -13990,13 +13991,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "5f69292a-2733-4916-958e-33af397f77d8")
-		(at 254.1 112.95)
+		(at 183.5 96.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW41"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "47011be8-eeca-40d5-ae31-aa9a34dec9d0")
+			(uuid "58e4c10c-83cb-4044-abad-2af8a35eea50")
 			(effects
 				(font
 					(size 1 1)
@@ -14007,7 +14008,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "a1773267-f251-4519-8fbd-837fc9beffe2")
+			(uuid "5cd23d86-f445-45bd-bc6c-e130e009cc30")
 			(effects
 				(font
 					(size 1 1)
@@ -14019,7 +14020,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "61717c62-b1bb-4cd5-b01b-d51c69cab3d8")
+			(uuid "f1529e07-490b-485a-adae-f91ab787a2ce")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14031,7 +14032,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a7b7a8a5-edb0-478f-a570-db850f8dd854")
+			(uuid "51759290-8008-43ae-8dfa-6c295c35435f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14694,13 +14695,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "67cf35a0-6b36-47d3-9cf2-74ccef33487f")
-		(at 237.55 112.95)
+		(at 201.5 62.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW35"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "bb680731-08d0-492d-989b-726e4fbe060f")
+			(uuid "ebcf5de7-0134-496a-9b9d-4447c5db11c4")
 			(effects
 				(font
 					(size 1 1)
@@ -14711,7 +14712,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "718f1cef-8953-4502-a0b9-3cd3bc71e03d")
+			(uuid "28b6bf7b-6d83-48c2-9b3c-f164addec02c")
 			(effects
 				(font
 					(size 1 1)
@@ -14723,7 +14724,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b368de0c-0ba0-4bf8-8ba3-79d2b418db2e")
+			(uuid "9c09b2e6-5c12-4b70-8c2d-cb13d0572528")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14735,7 +14736,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f4ddae5f-cfdc-4fac-aa25-492c3bfb43d2")
+			(uuid "8ac2c3d9-97fe-47eb-9b2f-487c16143283")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15025,7 +15026,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "69f3aeca-8fbc-4ec2-8dd8-e9e5e6aef675")
-		(at 63.45 112.95)
+		(at 77.75 62.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW11"
@@ -15356,7 +15357,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "6ad147dc-8f63-433c-80c2-22a416e72198")
-		(at 96.55 46.75)
+		(at 131.75 96.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW19"
@@ -15687,13 +15688,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "6f95e05d-f122-403e-9e44-636dfb824b06")
-		(at 237.55 46.75)
+		(at 219.5 45.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW31"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "d3a7a97f-39d2-4e97-914e-b724cba1df3f")
+			(uuid "001c7d3d-ffd5-4dae-9a4a-11c66244f5e2")
 			(effects
 				(font
 					(size 1 1)
@@ -15704,7 +15705,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "a90a175f-8e9b-4c59-9ec2-5866910efc74")
+			(uuid "cb26fca1-50bb-40f5-812e-b10b962c594b")
 			(effects
 				(font
 					(size 1 1)
@@ -15716,7 +15717,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6aefb51e-4600-40aa-ad0e-68dd839f0039")
+			(uuid "857b84b6-c7c9-48cc-adf3-f397ce551ae1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15728,7 +15729,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c53eec67-56a7-440f-b99d-1c38d2877ff7")
+			(uuid "bd782da3-3be7-46fd-a307-3f73d30b3989")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16391,7 +16392,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "72eb0687-e893-4d3e-8c87-b661d0a17c41")
-		(at 80 46.75)
+		(at 95.75 45.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW13"
@@ -16722,13 +16723,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "74326041-eeed-4ce1-b821-2b09c9a4dbdd")
-		(at 254.1 79.85)
+		(at 183.5 79.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW39"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "10acab11-f081-4dde-b235-c2dffae10710")
+			(uuid "fc314d1b-4704-4f2b-984d-6bc5f274158c")
 			(effects
 				(font
 					(size 1 1)
@@ -16739,7 +16740,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "e3137062-4b56-49ae-b28c-0f0f31ccb371")
+			(uuid "8a67bca9-c381-41db-9d72-7248b3b1497c")
 			(effects
 				(font
 					(size 1 1)
@@ -16751,7 +16752,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0bf6f80f-0d37-42c2-a829-31f86dcfd893")
+			(uuid "2762287d-d73d-4dfc-a0d3-afcecd9d492b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16763,7 +16764,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ec723b9b-fc65-4143-8e8f-ed42b0d051a9")
+			(uuid "8837a299-08ca-4409-8199-17ab87dde5bb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17799,13 +17800,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "7e823fa3-2ec6-4f79-83c6-93a0c61e5a5a")
-		(at 221 79.85)
+		(at 255.5 79.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW27"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "4f63bdae-41ed-453e-b79b-ab3a9b43f58f")
+			(uuid "d1d02629-17d8-4ae2-94f8-3ab70abd83f1")
 			(effects
 				(font
 					(size 1 1)
@@ -17816,7 +17817,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "5a8ea075-0b38-4b3e-ab86-ad696c19a8f0")
+			(uuid "09116ac8-2dd4-4e75-933a-7c75ae687a05")
 			(effects
 				(font
 					(size 1 1)
@@ -17828,7 +17829,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eaab4b41-0ecd-44a8-b626-5829a1fc4174")
+			(uuid "6341a0e2-d45d-4ab9-b501-f90c8a4576de")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17840,7 +17841,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b73718c3-80c8-4a67-8931-3d9cc283055e")
+			(uuid "3f1695ba-63d4-4fd8-a05e-69282029ae34")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18130,7 +18131,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "87f5bc87-2fae-4531-a9be-c7b39f0972c7")
-		(at 42.75 80.3)
+		(at 41.75 79.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW6"
@@ -18834,13 +18835,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "8e2ab84b-5b01-4cdb-9f01-6c4c7aa70536")
-		(at 237.55 129.5)
+		(at 201.5 79.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW36"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "c5bcae49-1001-4a15-ba8c-05ad2ec49473")
+			(uuid "aff4a892-e20d-4d56-9660-30e84a561e9e")
 			(effects
 				(font
 					(size 1 1)
@@ -18851,7 +18852,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "7c3b5b4e-4b02-43e9-bd63-00723c5144f4")
+			(uuid "ce72263c-26c6-4ba7-8da3-89e910c0a5d0")
 			(effects
 				(font
 					(size 1 1)
@@ -18863,7 +18864,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "02930cdb-f28e-4898-8d9e-a4f841568988")
+			(uuid "7595f06e-01cd-4750-b29a-a8824ffd6398")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18875,7 +18876,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6980f06d-dbfc-4978-9e45-fc9669d0a63a")
+			(uuid "2e32d95a-700e-4547-9b28-6a7a492f285d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19496,13 +19497,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "98c1db71-301e-4394-bd8a-a4ab5ce12aff")
-		(at 221 63.3)
+		(at 255.5 62.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW26"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "6f19ed43-9da0-4908-92e3-8436cc278134")
+			(uuid "e3fd4392-cc13-4777-8429-dab4434a489f")
 			(effects
 				(font
 					(size 1 1)
@@ -19513,7 +19514,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "88e543f8-5f32-4d05-b554-85a083bff20a")
+			(uuid "3edde2da-7981-4126-978d-b6b2a61c9fad")
 			(effects
 				(font
 					(size 1 1)
@@ -19525,7 +19526,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "47e552df-62e7-4b2b-aa82-95c702fab5bb")
+			(uuid "a1ce0bc4-33e7-4d7d-95dc-f03703c071d0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19537,7 +19538,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "63aeefbb-9edc-4501-bd47-d0960f49642d")
+			(uuid "b769f9ba-2600-4be3-9b32-6710bc9e7d52")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19827,7 +19828,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "9c3a7468-a229-4980-9041-865568c9fb1a")
-		(at 63.45 96.4)
+		(at 77.75 45.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW10"
@@ -20158,7 +20159,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "9f8de580-d4e6-4537-b747-5c99b8c2f5b2")
-		(at 63.45 79.85)
+		(at 59.75 79.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW9"
@@ -21235,13 +21236,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "b0317912-6a1c-47f9-b9a2-391dc0a3af70")
-		(at 237.55 79.85)
+		(at 219.5 79.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW33"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "ca7bbc83-b36a-4b57-a33b-2a7bc0a0bec8")
+			(uuid "a5c91207-1883-472f-84ce-3a67f86a04e0")
 			(effects
 				(font
 					(size 1 1)
@@ -21252,7 +21253,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "65242942-87a3-476c-8309-814fc51b86b8")
+			(uuid "6e5c6473-6ed6-4544-8fd9-f382478fff7e")
 			(effects
 				(font
 					(size 1 1)
@@ -21264,7 +21265,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "59cd4e09-c318-4179-af73-40d5a6f2ec72")
+			(uuid "117a5171-7423-4316-a34c-c4a7ff7f6c80")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21276,7 +21277,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "80fcff3b-225b-4041-9da9-cad4182ccfd7")
+			(uuid "799480ea-bb8c-4134-bca1-affe82cc162c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21566,7 +21567,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "b1d529e4-d452-46d8-9918-54dc423993ba")
-		(at -5.5 68)
+		(at 23.75 79.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW3"
@@ -21897,13 +21898,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "b3d5828e-7f3c-4ff9-bdc7-60b5f03d244b")
-		(at 221 112.95)
+		(at 237.5 62.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW29"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "42ac3af8-a1c1-4ce3-839d-fc353a896dc7")
+			(uuid "b7a0a861-9d74-4f2c-9786-9bea080303d7")
 			(effects
 				(font
 					(size 1 1)
@@ -21914,7 +21915,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "fecfdd6f-440f-4b4d-a366-81256996d61c")
+			(uuid "0b7becd0-8a82-4be0-9ada-52aa94d23425")
 			(effects
 				(font
 					(size 1 1)
@@ -21926,7 +21927,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1a39744f-1e70-4a6f-a9e8-3bf02326b59b")
+			(uuid "cbc8886d-55be-49fd-960c-9928ddfaf09e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21938,7 +21939,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "be871abd-bbdc-49fb-b3e1-dfa9f4f1f0a5")
+			(uuid "d5ffeeaf-cde6-443a-ba43-217df860b804")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22228,7 +22229,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "b4a6c15e-6b2b-4568-8d15-0e897227f807")
-		(at 80 129.5)
+		(at 113.75 79.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW18"
@@ -22559,7 +22560,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "b86bf780-4e89-4b46-8a08-e150613761d4")
-		(at 96.55 79.85)
+		(at 95.75 96.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW21"
@@ -23263,13 +23264,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "bc98215f-05f1-472b-be3b-c049a4b6e3a5")
-		(at 221 46.75)
+		(at 255.5 45.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW25"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "56f73f49-9243-48cf-a843-9ba8e11bedcb")
+			(uuid "5796b925-e320-4fe1-b488-37e62489f530")
 			(effects
 				(font
 					(size 1 1)
@@ -23280,7 +23281,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "df20a195-4881-43c6-96c1-c851a8139e3d")
+			(uuid "90c40ed3-e261-451d-aeb8-1070029c9773")
 			(effects
 				(font
 					(size 1 1)
@@ -23292,7 +23293,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "427fd17c-8423-4a78-9433-fabae9d8aef4")
+			(uuid "57213fd3-0cb1-4451-bf08-772d8dcc3baa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23304,7 +23305,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "606dd4fe-79fb-4bf2-b759-47de26ad3dcf")
+			(uuid "a07fd2af-3322-42a6-9608-bdfcc6590722")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23967,7 +23968,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "c24f0c55-0cd4-417e-af96-62e21a0bfbc5")
-		(at 204.45 96.4)
+		(at 273.5 45.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW22"
@@ -24298,13 +24299,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "c3987df1-a9d2-4040-8ae6-dff64627e3a5")
-		(at 254.1 46.75)
+		(at 183.5 45.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW37"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "217cb4c9-fbe1-470f-adaf-7c90d2a5cf36")
+			(uuid "d5cf4a5b-0f7a-4d2e-b8aa-c2158fd425c1")
 			(effects
 				(font
 					(size 1 1)
@@ -24315,7 +24316,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "791653de-7717-4ac8-a4fc-844af441e0dd")
+			(uuid "ad20e4dc-f689-47ae-80d3-8cdc73c3975f")
 			(effects
 				(font
 					(size 1 1)
@@ -24327,7 +24328,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "389bd15b-488c-4561-a16f-943c21457c16")
+			(uuid "522fef99-db79-4cd6-af22-ef9376bf4386")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24339,7 +24340,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "191445c5-530f-44d0-acad-a1459533235c")
+			(uuid "780a2319-ed48-478b-87a9-28aac4ec032f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25002,7 +25003,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "c72fd380-6b84-4662-8fb5-ff91b374f421")
-		(at 80 112.95)
+		(at 113.75 62.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW17"
@@ -25706,13 +25707,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "c824d584-0353-49a5-a4d2-f12cef864b88")
-		(at 221 129.5)
+		(at 237.5 79.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW30"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "2e29d91b-6200-4d7f-8070-ca35010420be")
+			(uuid "290d432d-0884-433e-9294-85c533f26ea9")
 			(effects
 				(font
 					(size 1 1)
@@ -25723,7 +25724,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "c2fe4375-df36-4f85-9046-21ce7de65e1a")
+			(uuid "0f35ae50-492d-4eac-9e50-8bf593af91c7")
 			(effects
 				(font
 					(size 1 1)
@@ -25735,7 +25736,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0d5ca696-159e-4eed-aa2f-7a123bfcdc80")
+			(uuid "f0edbba0-79d9-48ab-9f0f-f4aaed0c72a0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25747,7 +25748,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "62de5e6d-0bd2-4da8-ba92-951dc7e63516")
+			(uuid "a00fc7cc-b02b-4729-8880-692baa3815ca")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26037,7 +26038,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "c8d94b13-f87b-42fc-84c7-0dab20681c70")
-		(at 80 63.3)
+		(at 95.75 62.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW14"
@@ -26741,7 +26742,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "ce508ea8-ea91-49d5-9658-377fea6b2a74")
-		(at 23.75 63.275)
+		(at 23.75 62.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW2"
@@ -27072,13 +27073,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "cf10569c-deb5-4f58-a984-b625dc94edfc")
-		(at 254.1 63.3)
+		(at 183.5 62.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW38"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "5811a3e1-a807-4464-8151-f53465b7b25d")
+			(uuid "1f841f12-1b2b-4462-9bfa-9752223dcd4f")
 			(effects
 				(font
 					(size 1 1)
@@ -27089,7 +27090,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "f548a32a-0b34-4679-b41a-7a384345014b")
+			(uuid "a3bcb34e-16f1-4e86-8ff4-9a61ac82b305")
 			(effects
 				(font
 					(size 1 1)
@@ -27101,7 +27102,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0d3ad7c6-1038-41bd-b81a-a41c5f0fb137")
+			(uuid "2aff0968-0df3-41a6-bdf5-dd1f9db0b22b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27113,7 +27114,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1d11b589-a9a4-41a2-94e2-4a7959d82209")
+			(uuid "f36646e6-42a0-49c7-b465-4ed5725ec7ef")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27403,13 +27404,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "d1f52069-313a-4d66-863f-33ea71758113")
-		(at 254.1 129.5)
+		(at 201.5 96.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW42"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "a7fa5131-0f5d-4883-8282-64fe4f942632")
+			(uuid "7a22094a-177a-43cc-b108-e0e8f3c7d021")
 			(effects
 				(font
 					(size 1 1)
@@ -27420,7 +27421,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "395d62da-5748-4c3c-ad53-2adf93c8f52d")
+			(uuid "263c6841-72ca-4319-8d76-eb9f96ed62af")
 			(effects
 				(font
 					(size 1 1)
@@ -27432,7 +27433,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "86cfcb84-03a2-44ca-9834-c2577b7d9309")
+			(uuid "86bdff81-e28b-45e7-a479-4b4039dbda79")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27444,7 +27445,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "58d81edb-52f1-480f-aab9-c660e7613f08")
+			(uuid "479f56d7-6a23-4e1b-93f7-7a052bf4c764")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28256,7 +28257,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "d4a5bead-7469-4728-8edb-d2932304fe33")
-		(at 63.45 63.3)
+		(at 59.75 62.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW8"
@@ -28587,13 +28588,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "d53e39c2-1f0b-4d21-aebc-2df7d132a7c2")
-		(at 254.1 96.4)
+		(at 165.5 96.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW40"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "9452fda8-2843-4bc5-a35b-73e1bbbfac3b")
+			(uuid "261ac920-bfb4-482f-9d53-daf2dbb83660")
 			(effects
 				(font
 					(size 1 1)
@@ -28604,7 +28605,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "aaa091a3-1e3a-4493-80ca-6aeea4fb119c")
+			(uuid "0fdf95b5-dcfa-4fb8-a841-81ac7545916e")
 			(effects
 				(font
 					(size 1 1)
@@ -28616,7 +28617,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "75e7de1e-1d23-4758-ba00-dd2e99588135")
+			(uuid "d257d95e-0712-420f-b644-de67dc8bbf72")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28628,7 +28629,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9fc1cbce-bcfd-48f0-a708-afee1aedd5d0")
+			(uuid "5e5f1ec6-940f-4fdc-9d98-bd2016caaa5c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28918,7 +28919,7 @@
 	(footprint "Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm"
 		(layer "F.Cu")
 		(uuid "d677bcad-76eb-49d3-b7fb-4eb2320cb9cb")
-		(at 162.835 74.375)
+		(at 159.04 74.5375)
 		(descr "Wuerth, WS-SLTV, 450301014042, https://www.we-online.com/components/products/datasheet/450301014042.pdf")
 		(tags "switch single-pole opposite-side-connection double-throw SPDT würth wurth")
 		(property "Reference" "SW45"
@@ -31305,7 +31306,7 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "f03bd67b-7cb5-44b6-a9b7-0368516789d0")
-		(at 80 96.4)
+		(at 113.75 45.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW16"
@@ -32382,7 +32383,7 @@
 	(footprint "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
 		(layer "F.Cu")
 		(uuid "f819bd92-19e5-43fc-85c5-7c387729bf0a")
-		(at 126.25 74.375)
+		(at 127.5 74.375)
 		(descr "JST PH series connector, B2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH side entry")
 		(property "Reference" "J1"
@@ -32838,13 +32839,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "fb9695ab-a141-42f0-b637-f817f7355c04")
-		(at 43.11 44.78)
+		(at 41.75 45.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW4"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "0d5b8d7b-22b7-49e1-aa8c-9977845a8968")
+			(uuid "a3060156-58de-4dde-bfdc-e94db4871151")
 			(effects
 				(font
 					(size 1 1)
@@ -32855,7 +32856,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "3a7d81e0-10cc-42f1-a7d4-d2789c9028a5")
+			(uuid "81fc7804-a006-46d9-bdfc-80160b865dfb")
 			(effects
 				(font
 					(size 1 1)
@@ -32867,7 +32868,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "29b10e15-0378-4861-a23c-514a50ad463c")
+			(uuid "50a9a384-4950-4e1e-8678-d1b467a1dbbd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32879,7 +32880,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "44d6d5f3-6625-414f-902a-b72ad0319698")
+			(uuid "4a673233-649d-45ff-80e5-e91f517508d7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33169,13 +33170,13 @@
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
 		(uuid "fd5cd577-d96e-4fe6-aa81-81d63e7fd23d")
-		(at 204.45 112.95)
+		(at 273.5 62.85)
 		(descr "Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u")
 		(tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW23"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "a35cd0ab-6b07-4fe7-86f0-05f4db831b04")
+			(uuid "34140bab-0127-4795-9926-12251b7fd2f7")
 			(effects
 				(font
 					(size 1 1)
@@ -33186,7 +33187,7 @@
 		(property "Value" "SW_Push"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "b2555d99-f7e7-47a9-8e31-3ff2b38e633f")
+			(uuid "20dd775b-90fd-4928-8960-2f996b945310")
 			(effects
 				(font
 					(size 1 1)
@@ -33198,7 +33199,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f9824636-78cf-44e5-9f22-ac99b541cf9d")
+			(uuid "5d6dd84d-7887-4e10-b725-7e02ee89423b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33210,7 +33211,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e920f3dd-151e-4718-b417-942914b7748f")
+			(uuid "723a3b9a-1277-4295-8d44-b25a442b91c4")
 			(effects
 				(font
 					(size 1.27 1.27)
