@@ -35,47 +35,47 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" "~"
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_keywords" "connector"
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "Connector*:*_1x??_*"
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "Conn_01x02_1_1"
@@ -182,65 +182,65 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 90)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" "~"
 				(at 0 0 90)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Diode, small symbol"
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Sim.Device" "D"
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Sim.Pins" "1=K 2=A"
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_keywords" "diode"
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "D_Small_0_1"
@@ -351,38 +351,38 @@
 			)
 			(property "Footprint" ""
 				(at 0 5.08 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" "~"
 				(at 0 5.08 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Push button switch, generic, two pins"
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_keywords" "switch normally-open pushbutton push-button"
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "SW_Push_0_1"
@@ -497,47 +497,47 @@
 			)
 			(property "Footprint" "Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm"
 				(at 0 -10.16 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" "https://www.we-online.com/components/products/datasheet/450301014042.pdf"
 				(at 0 -7.62 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Switch slide, single pole double throw"
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_keywords" "changeover single-pole opposite-side-connection double-throw spdt ON-ON"
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "SW*Wuerth*WS*SLTV*10x2.5x6.4*P2.54mm*"
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "SW_Wuerth_450301014042_0_1"
@@ -678,29 +678,29 @@
 			)
 			(property "Footprint" "PCM_marbastlib-xp-promicroish:nice_nano_AH_USBup"
 				(at 0 -30.48 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" "https://nicekeyboards.com/docs/nice-nano/pinout-schematic"
 				(at 1.27 -33.02 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Symbol for an nicekeyboards nice!nano"
 				(at 0 0 0)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "nice_nano_0_0"
@@ -2747,11 +2747,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 98.719 92.71 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -2769,11 +2771,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 34.0262 107.95 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -2791,11 +2795,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 164.4129 90.17 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -2813,11 +2819,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 28.5229 90.17 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -2835,11 +2843,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 76.2 20.0562 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -2857,11 +2867,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 229.529 97.79 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -2879,11 +2891,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 28.5229 92.71 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -2901,11 +2915,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 34.0262 100.33 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -2923,11 +2939,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 169.6743 105.41 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -2945,11 +2963,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 164.4129 92.71 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -2967,11 +2987,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 169.6743 102.87 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -2989,11 +3011,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 34.0262 105.41 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3011,11 +3035,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 33.6029 95.25 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3033,11 +3059,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 273.05 19.8143 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3055,11 +3083,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 162.901 45.72 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3077,11 +3107,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 169.6743 110.49 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3099,11 +3131,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 242.57 19.8143 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3121,11 +3155,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 121.92 114.9871 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3143,11 +3179,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 234.8509 92.71 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3165,11 +3203,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 62.23 20.0562 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3187,11 +3227,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 214.63 19.8143 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3209,11 +3251,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 251.46 115.229 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3231,11 +3275,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 104.14 20.0562 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3253,11 +3299,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 162.901 57.15 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3275,11 +3323,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 34.0262 97.79 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3297,11 +3347,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 164.4129 82.55 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3319,11 +3371,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 228.6 19.8143 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3341,11 +3395,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 93.3971 95.25 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3363,11 +3419,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 169.6743 113.03 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3385,11 +3443,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 48.26 20.0562 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3407,11 +3467,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 119.38 120.0671 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3429,11 +3491,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 34.0262 110.49 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3451,11 +3515,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 137.8471 85.09 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3473,11 +3539,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 90.17 20.0562 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3495,11 +3563,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 162.901 68.58 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3517,11 +3587,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 34.0262 113.03 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3539,11 +3611,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 28.5229 82.55 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3561,11 +3635,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 93.3971 97.79 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3583,11 +3659,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 34.0262 102.87 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3605,11 +3683,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 24.7129 45.72 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3627,11 +3707,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 169.6743 100.33 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3649,11 +3731,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 267.629 85.09 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3671,11 +3755,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 118.11 20.0562 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3693,11 +3779,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 200.66 19.8143 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3715,11 +3803,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 169.6743 107.95 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3737,11 +3827,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 234.609 87.63 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3759,11 +3851,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 169.6743 97.79 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3781,11 +3875,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 98.4771 87.63 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3803,11 +3899,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 186.69 19.8143 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3825,11 +3923,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 229.529 95.25 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3847,11 +3947,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 248.92 120.309 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3869,11 +3971,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 24.7129 57.15 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3891,11 +3995,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 24.7129 68.58 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3913,11 +4019,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 169.251 95.25 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -3935,11 +4043,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 134.62 20.0562 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3957,11 +4067,13 @@
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 256.54 19.8143 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -3986,56 +4098,68 @@
 		(property "Value" "D_Small"
 			(at 113.03 42.164 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 107.95 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 107.95 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 107.95 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 107.95 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 107.95 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4082,28 +4206,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 99.06 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 99.06 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 99.06 40.64 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4142,56 +4272,68 @@
 		(property "Value" "D_Small"
 			(at 181.61 53.594 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 176.53 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 176.53 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 176.53 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 176.53 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 176.53 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4238,28 +4380,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 113.03 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 113.03 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 113.03 63.5 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4306,28 +4454,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 99.06 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 99.06 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 99.06 52.07 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4366,56 +4520,68 @@
 		(property "Value" "D_Small"
 			(at 43.18 42.164 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 38.1 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 38.1 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 38.1 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 38.1 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4462,28 +4628,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 57.15 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 57.15 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 57.15 63.5 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4522,56 +4694,68 @@
 		(property "Value" "D_Small"
 			(at 195.58 53.594 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 190.5 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 190.5 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 190.5 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 190.5 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 190.5 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4617,28 +4801,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 43.18 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 43.18 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 43.18 52.07 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4677,56 +4867,68 @@
 		(property "Value" "D_Small"
 			(at 195.58 65.024 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 190.5 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 190.5 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 190.5 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 190.5 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 190.5 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4773,28 +4975,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 223.52 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 223.52 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 223.52 63.5 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4833,56 +5041,68 @@
 		(property "Value" "D_Small"
 			(at 85.09 53.594 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 80.01 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 80.01 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 80.01 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 80.01 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 80.01 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4921,56 +5141,68 @@
 		(property "Value" "D_Small"
 			(at 113.03 65.024 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 107.95 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 107.95 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 107.95 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 107.95 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 107.95 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -5009,56 +5241,68 @@
 		(property "Value" "D_Small"
 			(at 251.46 42.164 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 246.38 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 246.38 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 246.38 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 246.38 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 246.38 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -5097,56 +5341,68 @@
 		(property "Value" "D_Small"
 			(at 113.03 53.594 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 107.95 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 107.95 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 107.95 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 107.95 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 107.95 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -5193,28 +5449,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 223.52 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 223.52 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 223.52 40.64 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5261,28 +5523,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 237.49 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 237.49 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 237.49 52.07 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5321,56 +5589,68 @@
 		(property "Value" "D_Small"
 			(at 71.12 65.024 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 66.04 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 66.04 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 66.04 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 66.04 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 66.04 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -5409,56 +5689,68 @@
 		(property "Value" "D_Small"
 			(at 223.52 65.024 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 218.44 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 218.44 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 218.44 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 218.44 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 218.44 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -5505,28 +5797,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 195.58 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 195.58 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 195.58 40.64 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5565,56 +5863,68 @@
 		(property "Value" "D_Small"
 			(at 99.06 53.594 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 93.98 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 93.98 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 93.98 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 93.98 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 93.98 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -5653,56 +5963,68 @@
 		(property "Value" "D_Small"
 			(at 181.61 42.164 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 176.53 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 176.53 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 176.53 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 176.53 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 176.53 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -5741,56 +6063,68 @@
 		(property "Value" "D_Small"
 			(at 129.54 53.594 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 124.46 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 124.46 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 124.46 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 124.46 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 124.46 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -5829,56 +6163,68 @@
 		(property "Value" "D_Small"
 			(at 99.06 65.024 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 93.98 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 93.98 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 93.98 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 93.98 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 93.98 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -5925,28 +6271,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 195.58 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 195.58 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 195.58 63.5 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5993,28 +6345,34 @@
 		(property "Footprint" "libraries:SuperMini NRF52840"
 			(at 63.5 129.54 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "https://nicekeyboards.com/docs/nice-nano/pinout-schematic"
 			(at 64.77 132.08 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Symbol for an nicekeyboards nice!nano"
 			(at 63.5 99.06 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "29"
@@ -6134,56 +6492,68 @@
 		(property "Value" "D_Small"
 			(at 195.58 42.164 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 190.5 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 190.5 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 190.5 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 190.5 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 190.5 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -6230,28 +6600,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 181.61 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 181.61 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 181.61 40.64 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6290,56 +6666,68 @@
 		(property "Value" "D_Small"
 			(at 251.46 65.024 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 246.38 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 246.38 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 246.38 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 246.38 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 246.38 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -6385,28 +6773,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 181.61 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 181.61 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 181.61 52.07 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6445,56 +6839,68 @@
 		(property "Value" "D_Small"
 			(at 181.61 65.024 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 176.53 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 176.53 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 176.53 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 176.53 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 176.53 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -6541,28 +6947,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 251.46 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 251.46 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 251.46 40.64 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6601,56 +7013,68 @@
 		(property "Value" "D_Small"
 			(at 43.18 65.024 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 38.1 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 38.1 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 38.1 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 38.1 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -6697,28 +7121,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 237.49 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 237.49 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 237.49 63.5 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6757,56 +7187,68 @@
 		(property "Value" "D_Small"
 			(at 223.52 53.594 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 218.44 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 218.44 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 218.44 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 218.44 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 218.44 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -6845,56 +7287,68 @@
 		(property "Value" "D_Small"
 			(at 129.54 65.024 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 124.46 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 124.46 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 124.46 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 124.46 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 124.46 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -6941,28 +7395,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 209.55 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 209.55 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 209.55 63.5 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7009,28 +7469,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 57.15 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 57.15 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 57.15 40.64 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7069,56 +7535,68 @@
 		(property "Value" "D_Small"
 			(at 71.12 53.594 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 66.04 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 66.04 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 66.04 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 66.04 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 66.04 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -7157,56 +7635,68 @@
 		(property "Value" "D_Small"
 			(at 85.09 65.024 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 80.01 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 80.01 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 80.01 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 80.01 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 80.01 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -7245,56 +7735,68 @@
 		(property "Value" "D_Small"
 			(at 129.54 42.164 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 124.46 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 124.46 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 124.46 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 124.46 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 124.46 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -7333,56 +7835,68 @@
 		(property "Value" "D_Small"
 			(at 251.46 53.594 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 246.38 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 246.38 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 246.38 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 246.38 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 246.38 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -7429,28 +7943,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 71.12 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 71.12 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 71.12 63.5 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7489,56 +8009,68 @@
 		(property "Value" "D_Small"
 			(at 99.06 42.164 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 93.98 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 93.98 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 93.98 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 93.98 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 93.98 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -7585,28 +8117,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 237.49 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 237.49 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 237.49 40.64 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7653,28 +8191,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 209.55 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 209.55 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 209.55 52.07 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7713,56 +8257,68 @@
 		(property "Value" "D_Small"
 			(at 85.09 42.164 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 80.01 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 80.01 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 80.01 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 80.01 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 80.01 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -7809,28 +8365,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 85.09 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 85.09 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 85.09 40.64 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7877,28 +8439,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 43.18 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 43.18 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 43.18 63.5 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7937,56 +8505,68 @@
 		(property "Value" "D_Small"
 			(at 209.55 53.594 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 204.47 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 204.47 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 204.47 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 204.47 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 204.47 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -8033,28 +8613,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 129.54 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 129.54 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 129.54 63.5 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8101,28 +8687,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 267.97 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 267.97 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 267.97 63.5 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8161,56 +8753,68 @@
 		(property "Value" "D_Small"
 			(at 267.97 65.024 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 262.89 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 262.89 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 262.89 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 262.89 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 262.89 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -8257,28 +8861,34 @@
 		(property "Footprint" "Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm"
 			(at 241.3 92.71 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/450301014042.pdf"
 			(at 241.3 90.17 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Switch slide, single pole double throw"
 			(at 241.3 82.55 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8328,28 +8938,34 @@
 		(property "Footprint" "libraries:SuperMini NRF52840"
 			(at 199.39 129.54 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "https://nicekeyboards.com/docs/nice-nano/pinout-schematic"
 			(at 200.66 132.08 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Symbol for an nicekeyboards nice!nano"
 			(at 199.39 99.06 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "29"
@@ -8477,28 +9093,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 181.61 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 181.61 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 181.61 63.5 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8545,28 +9167,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 57.15 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 57.15 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 57.15 52.07 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8613,28 +9241,34 @@
 		(property "Footprint" "Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm"
 			(at 111.76 92.71 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/450301014042.pdf"
 			(at 111.76 90.17 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Switch slide, single pole double throw"
 			(at 111.76 82.55 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8684,28 +9318,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 71.12 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 71.12 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 71.12 52.07 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8752,28 +9392,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 223.52 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 223.52 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 223.52 52.07 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8820,28 +9466,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 251.46 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 251.46 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 251.46 52.07 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8888,28 +9540,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 43.18 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 43.18 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 43.18 40.64 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8948,56 +9606,68 @@
 		(property "Value" "D_Small"
 			(at 267.97 42.164 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 262.89 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 262.89 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 262.89 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 262.89 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 262.89 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -9044,28 +9714,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 195.58 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 195.58 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 195.58 52.07 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9110,31 +9786,37 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal"
 			(at 119.38 93.98 0)
+			(effects
+				(hide yes)
+			)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 119.38 93.98 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 119.38 93.98 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9173,56 +9855,68 @@
 		(property "Value" "D_Small"
 			(at 57.15 53.594 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 52.07 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 52.07 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 52.07 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 52.07 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 52.07 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -9261,56 +9955,68 @@
 		(property "Value" "D_Small"
 			(at 237.49 65.024 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 232.41 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 232.41 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 232.41 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 232.41 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 232.41 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -9357,28 +10063,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 113.03 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 113.03 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 113.03 40.64 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9425,28 +10137,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 85.09 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 85.09 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 85.09 52.07 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9491,31 +10209,37 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal"
 			(at 248.92 93.98 0)
+			(effects
+				(hide yes)
+			)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 248.92 93.98 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 248.92 93.98 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9554,56 +10278,68 @@
 		(property "Value" "D_Small"
 			(at 237.49 42.164 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 232.41 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 232.41 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 232.41 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 232.41 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 232.41 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -9650,28 +10386,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 251.46 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 251.46 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 251.46 63.5 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9718,28 +10460,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 267.97 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 267.97 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 267.97 40.64 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9786,28 +10534,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 71.12 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 71.12 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 71.12 40.64 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9846,56 +10600,68 @@
 		(property "Value" "D_Small"
 			(at 209.55 65.024 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 204.47 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 204.47 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 204.47 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 204.47 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 204.47 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -9934,56 +10700,68 @@
 		(property "Value" "D_Small"
 			(at 57.15 42.164 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 52.07 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 52.07 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 52.07 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 52.07 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 52.07 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -10030,28 +10808,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 267.97 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 267.97 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 267.97 52.07 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10098,28 +10882,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 85.09 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 85.09 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 85.09 63.5 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10166,28 +10956,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 129.54 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 129.54 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 129.54 52.07 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10226,56 +11022,68 @@
 		(property "Value" "D_Small"
 			(at 237.49 53.594 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 232.41 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 232.41 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 232.41 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 232.41 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 232.41 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -10314,56 +11122,68 @@
 		(property "Value" "D_Small"
 			(at 267.97 53.594 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 262.89 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 262.89 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 262.89 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 262.89 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 262.89 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -10402,56 +11222,68 @@
 		(property "Value" "D_Small"
 			(at 209.55 42.164 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 204.47 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 204.47 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 204.47 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 204.47 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 204.47 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -10498,28 +11330,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 113.03 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 113.03 46.99 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 113.03 52.07 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10558,56 +11396,68 @@
 		(property "Value" "D_Small"
 			(at 57.15 65.024 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 52.07 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 52.07 66.04 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 52.07 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 52.07 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 52.07 66.04 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -10646,56 +11496,68 @@
 		(property "Value" "D_Small"
 			(at 71.12 42.164 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 66.04 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 66.04 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 66.04 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 66.04 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 66.04 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -10742,28 +11604,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 99.06 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 99.06 58.42 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 99.06 63.5 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10802,56 +11670,68 @@
 		(property "Value" "D_Small"
 			(at 43.18 53.594 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 38.1 54.61 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 38.1 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 38.1 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 38.1 54.61 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -10898,28 +11778,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 129.54 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 129.54 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 129.54 40.64 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10966,28 +11852,34 @@
 		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 			(at 209.55 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 209.55 35.56 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 209.55 40.64 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11026,56 +11918,68 @@
 		(property "Value" "D_Small"
 			(at 223.52 42.164 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 218.44 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
 			(at 218.44 43.18 90)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Diode, small symbol"
 			(at 218.44 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Device" "D"
 			(at 218.44 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 218.44 43.18 0)
 			(effects
+				(hide yes)
+			)
+			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
