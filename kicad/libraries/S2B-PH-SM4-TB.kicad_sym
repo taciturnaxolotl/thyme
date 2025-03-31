@@ -1,0 +1,44 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "S2B-PH-SM4-TB" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "P" (id 0) (at -1.27182 3.81547 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "S2B-PH-SM4-TB" (id 1) (at -1.27098 -5.08392 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "S2B-PH-SM4-TB:JST_S2B-PH-SM4-TB" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "JST" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "S2B-PH-SM4-TB_0_0"
+      (polyline
+        (pts (xy 0.0 1.27) (xy 2.54 1.27)) (stroke (width 0.762))
+      )
+      (polyline
+        (pts (xy 0.0 -1.27) (xy 2.54 -1.27)) (stroke (width 0.762))
+      )
+      (rectangle (start -1.27 -3.81) (end 5.08 3.81)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin passive line (at -5.08 1.27 0) (length 5.08)
+        (name "1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -5.08 -1.27 0) (length 5.08)
+        (name "2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
