@@ -1,14 +1,15 @@
-<h1 align="center">
-    <img src="https://raw.githubusercontent.com/taciturnaxolotl/thyme/main/.github/images/tanabata.svg" width="200" alt="tanabata tree"/><br/>
-    <span>The thyme keyboard</span>
-</h1>
+# The thyme keyboard
 
-<p align="center">
-    <i>(ik that the logo is a tanabata tree lol but I liked it as a logo much more then the sage art i could find)</i>
-</p>
+<img src="https://raw.githubusercontent.com/taciturnaxolotl/thyme/main/.github/images/tanabata.svg" width="150" align="right">
 
 > ### More deets coming soon 👀  
-> for now though: this is a split, low profile, wireless, mechanical keyboard! It's made with the [`hackpad`](https://hackpad.hackclub.com) grant from Hack Club!
+> A split, low-profile, wireless mechanical keyboard inspired by the Corne design. Made possible through the [`hackpad`](https://hackpad.hackclub.com) grant from Hack Club.
+
+## Schematics
+
+![schematic](https://raw.githubusercontent.com/taciturnaxolotl/thyme/main/.github/images/schematic.svg)
+
+![pcb](https://raw.githubusercontent.com/taciturnaxolotl/thyme/main/.github/images/pcb.svg)
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/line-break.svg" />
