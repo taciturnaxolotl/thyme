@@ -3329,6 +3329,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/nRF52840 Reference.step"
+			(offset
+				(xyz 13.5 -35 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -13401,6 +13412,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/nRF52840 Reference.step"
+			(offset
+				(xyz 13.5 -35 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
 		(layer "F.Cu")
@@ -29021,17 +29043,6 @@
 			(uuid "b3aa7edb-c4ed-468f-a54f-c1cf440ff810")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm.wrl"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
