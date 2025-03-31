@@ -1,5 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "marbastlib-promicroish")(type "KiCad")(uri "${KIPRJMOD}/libraries/marbastlib-promicroish.kicad_sym")(options "")(descr ""))
-  (lib (name "S2B-PH-SM4-TB")(type "KiCad")(uri "${KIPRJMOD}/libraries/S2B-PH-SM4-TB.kicad_sym")(options "")(descr ""))
+  (lib (name "SLW-1277744-3A-N-D")(type "KiCad")(uri "${KIPRJMOD}/libraries/SLW-1277744-3A-N-D.kicad_sym")(options "")(descr ""))
+  (lib (name "S2B-PH-K-S")(type "KiCad")(uri "${KIPRJMOD}/libraries/S2B-PH-K-S.kicad_sym")(options "")(descr ""))
 )
