@@ -9,22 +9,29 @@
 
 | Part | Quantity | Price | Link | Description | Notes |
 | --- | --- | --- | --- | --- | --- |
-| SuperMini NRF52840 (Nice!Nano footprint) | 2 | `$4.15` | [AliExpress](https://www.aliexpress.us/item/3256805848952479.html) | Wireless Microcontroller | |
+| PCB | 1 | `$25.15` | [JLCPCB](https://jlcpcb.com) | 2-layer, 1.6mm, black, leaded Hasl | I wanted to get ENIG but that bumped the price by `$20` |
+| | | | | | |
+| Choc v1 switches | 50 | `$27.50` | [Chosfox](https://chosfox.com/products/kailh-chocs?variant=42514648006850) | pink variant: `20+-5 gf` linear | `$0.55` per switch |
+| | | | | | |
+| 1u keycaps | 40 | `$14.00` | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps) | White PBT low profile | `$0.35` per keycap |
+| 1u homing keycaps | 2 | `$0.80` | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps) | White PBT low profile | `$0.40` per keycap |
+| 1.75u keycaps | 2 | `$1.65` | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps) | White PBT low profile | `$0.83` per keycap |
+| Total cost: `$16.45` | | | | average of `$0.41` per keycap | |
+| | | | | | |
+| SuperMini NRF52840 (Nice!Nano footprint) | 2 | `$8.30` | [AliExpress](https://www.aliexpress.us/item/3256805848952479.html) | Wireless Microcontroller | `$4.15` per MCU |
+| | | | | | |
 | Machine Sockets 2.54mm | 1 | `$1.75` | [AliExpress](https://www.aliexpress.us/item/2251832794091942.html) | 26x2 needed to socket the two MCUs | comes in a 10 pack of 40x1 rows |
 | Machine Pins | 1 | `$3.99` | [AliExpress](https://www.aliexpress.us/item/2251832672116019.html) | 26x2 needed to socket the two MCUs | comes in a 100 pack of 4 per header |
-| Power Switch | 4 | `$0.39` | [DigiKey](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SLW-1277744-3A-N-D/24399208) | one for each half | added an extra switch for each side as backup |
-| JST PH 2.0mm 2-pin Connector | 4 | `$0.10` | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626) | for battery connection | |
-| 301230 3.7V 110mAh LiPo Battery | 2 | `$6.30` | [AliExpress](https://www.aliexpress.us/item/3256805162053912.html) | comes pre jst ph-ifised | two lot |
-| PCB | 1 | `$25.15` | [JLCPCB](https://jlcpcb.com) | 2-layer, 1.6mm, black, leaded Hasl | I wanted to get ENIG but that bumped the price by `$20` |
-| Diodes | 42 | `$1.43` | [DigiKey](https://www.digikey.com/en/products/detail/diotec-semiconductor/1N4148/13164514) | 1N4148 | |
-| Choc v1 switches | 50 | `$27.50` | [Chosfox](https://chosfox.com/products/kailh-chocs?variant=42514648006850) | pink variant: `20+-5 gf` linear | |
-| 1u keycaps | 40 | `$14.00` | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps) | White PBT low profile | |
-| 1u homing keycaps | 2 | `$0.80` | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps) | White PBT low profile | |
-| 1.75u keycaps | 2 | `$1.65` | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps) | White PBT low profile | |
+| Power Switch | 4 | `$0.39` | [DigiKey](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SLW-1277744-3A-N-D/24399208) | added an extra switch for each side as backup | `$0.10` per switch |
+| JST PH 2.0mm 2-pin Connector | 4 | `$0.40` | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626) | | `$0.10` per connector |
+| Diodes | 42 | `$1.43` | [DigiKey](https://www.digikey.com/en/products/detail/diotec-semiconductor/1N4148/13164514) | 1N4148 | `$0.03` per diode |
+| Total cost: `$7.66` | | | | | |
+| | | | | | |
+| 301230 3.7V 110mAh LiPo Battery | 2 | `$6.30` | [AliExpress](https://www.aliexpress.us/item/3256805162053912.html) | the non jst ones are cheaper but the crimper is 60 bucks and there is no way im buying that | `$3.15` per battery |
 
 Total cost: `$85.11`  
 
-### Store breakdown
+### Shipping / Tax / Tariffs / Per store shopping list
 
 | Store | Shipping | Subtotal | Total | Items |
 | --- | --- | --- | --- | --- |
