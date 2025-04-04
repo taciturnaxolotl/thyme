@@ -1,0 +1,3 @@
+[submodule "zmk"]
+	path = zmk
+	url = git@github.com:/taciturnaxolotl/thyme-module
