@@ -1,4 +1,0 @@
-name: zmk-keyboard-thyme
-build:
-  settings:
-    board_root: .

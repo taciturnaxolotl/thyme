@@ -1,5 +1,0 @@
-config SHIELD_THYME_LEFT
-    def_bool $(shields_list_contains,thyme_left)
-
-config SHIELD_THYME_RIGHT
-    def_bool $(shields_list_contains,thyme_right)
