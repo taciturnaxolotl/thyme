@@ -1,0 +1,16 @@
+if SHIELD_THYME_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "Thyme"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_THYME_LEFT || SHIELD_THYME_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
