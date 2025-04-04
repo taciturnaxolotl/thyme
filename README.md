@@ -49,6 +49,8 @@ Total cost: `$122.67` (including shipping, tax, and tarrifs)
 
 ![pcb](https://raw.githubusercontent.com/taciturnaxolotl/thyme/main/.github/images/pcb.svg)
 
+![blueprint](https://raw.githubusercontent.com/taciturnaxolotl/thyme/main/.github/images/blueprint.svg)
+
 ## Build Notes
 
 Panelization is the most annoying bit of this whole process. I was able to finally get it work work by using `kikit` to generate rails and tabs. 
