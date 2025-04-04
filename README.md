@@ -1,5 +1,7 @@
 # The thyme keyboard
 
+![blueprint](https://raw.githubusercontent.com/taciturnaxolotl/thyme/main/.github/images/blueprint.svg)
+
 <img src="https://raw.githubusercontent.com/taciturnaxolotl/thyme/main/.github/images/tanabata.svg" width="150" align="right">
 
 > ### More deets coming soon 👀  
@@ -48,8 +50,6 @@ Total cost: `$122.67` (including shipping, tax, and tarrifs)
 ![schematic](https://raw.githubusercontent.com/taciturnaxolotl/thyme/main/.github/images/schematic.svg)
 
 ![pcb](https://raw.githubusercontent.com/taciturnaxolotl/thyme/main/.github/images/pcb.svg)
-
-![blueprint](https://raw.githubusercontent.com/taciturnaxolotl/thyme/main/.github/images/blueprint.svg)
 
 ## Build Notes
 
