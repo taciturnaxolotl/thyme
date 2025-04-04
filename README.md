@@ -71,6 +71,10 @@ kikit panelize \
 
 ![panelized](https://raw.githubusercontent.com/taciturnaxolotl/thyme/main/.github/images/panelized.svg)
 
+Firmware is `zmk` and is maintained in the submodule [/zmk](https://github.com/taciturnaxolotl/thyme-module). The latest firmware build can be grabbed from [nightly.link/taciturnaxolotl/thyme-module/workflows/build](https://nightly.link/taciturnaxolotl/thyme-module/workflows/build/main) as a zip containing the left and right half `uf2` files.
+
+The case was made in onshape and is available in [this document](https://cad.onshape.com/documents/eb30178d0af4291efc746ab6/w/0d165c7d0bf8d717a9598c9f/e/3dd4b0baac9c9ef14c8041ba?renderMode=0&uiState=67efb22294ee2703b96c81ea). The case is made of PLA and printed on an A1 mini. It is likely to change quite a bit once I get my pcb assembled and can fit test stuff. Evenentually I would like to add a top plate that attaches to the bottom with magnets and mill the whole case out of aluminum.
+
 <p align="center">
 	<img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/line-break.svg" />
 </p>
