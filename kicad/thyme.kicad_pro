@@ -485,7 +485,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../production",
+      "plot": "../.github/images/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../thyme.step",
