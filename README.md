@@ -17,7 +17,7 @@
 | | | | | | |
 | 1u keycaps | 40 | `$14.00` | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps) | White PBT low profile | `$0.35` per keycap |
 | 1u homing keycaps | 2 | `$0.80` | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps) | White PBT low profile | `$0.40` per keycap |
-| 1.75u keycaps | 2 | `$1.65` | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps) | White PBT low profile | `$0.83` per keycap |
+| 1.5u keycaps | 2 | `$1.65` | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps) | White PBT low profile | `$0.83` per keycap |
 | Total cost: `$16.45` | | | | average of `$0.41` per keycap | |
 | | | | | | |
 | SuperMini NRF52840 (Nice!Nano footprint) | 2 | `$8.30` | [AliExpress](https://www.aliexpress.us/item/3256805848952479.html) | Wireless Microcontroller | `$4.15` per MCU |
@@ -39,7 +39,7 @@ Total cost: `$85.11`
 | --- | --- | --- | --- | --- |
 | AliExpress | `$9.43` | `$26.64` | `$36.07` | 2x SuperMini NRF52840, Machine Sockets, Machine Pins, 2x LiPo Battery |
 | DigiKey | `$6.99` | `$4.49` (tarrifs and tax) | `$11.48` | 4x Power Switch, 4x JST Connector, 42x Diodes |
-| Chosfox | `$5.00` | `$43.95` | `$48.95` | 50x Choc v1 switches, 40x 1u keycaps, 2x 1u homing keycaps, 2x 1.75u keycaps |
+| Chosfox | `$5.00` | `$43.95` | `$48.95` | 50x Choc v1 switches, 40x 1u keycaps, 2x 1u homing keycaps, 2x 1.5u keycaps |
 | JLCPCB | `$10.55` | `$14.60` | `$25.15` | 1x PCB |
 
 Total shipping: `$31.97`  
