@@ -488,7 +488,7 @@
       "plot": "../.github/images/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../thyme.step",
+      "step": "../../../Downloads/thyme.step",
       "svg": "",
       "vrml": ""
     },

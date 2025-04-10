@@ -8840,7 +8840,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.50u"
 			(at 113.03 69.85 0)
 			(effects
 				(hide yes)
@@ -8914,7 +8914,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1V2_1.50u"
 			(at 251.46 69.85 0)
 			(effects
 				(hide yes)
