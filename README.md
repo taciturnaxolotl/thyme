@@ -54,7 +54,7 @@ Total cost: `$122.67` (including shipping, tax, and tarrifs)
 
 ## Build Notes
 
-Panelization is the most annoying bit of this whole process. I was able to finally get it work work by using `kikit` to generate rails and tabs. 
+Panelization is the most annoying bit of this whole process. I was able to finally get it work work by using [`kikit`](https://yaqwsx.github.io/KiKit/latest/installation/intro/) to generate rails and tabs. 
 
 ```bash
 kikit panelize \
