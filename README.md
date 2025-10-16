@@ -11,28 +11,28 @@
 
 | Part | Quantity | Price | Link | Description | Notes |
 | --- | --- | --- | --- | --- | --- |
-| PCB | 1 | `$25.15` | [JLCPCB](https://jlcpcb.com) | 2-layer, 1.6mm, black, leaded Hasl | I wanted to get ENIG but that bumped the price by `$20` |
+| PCB | 1 | `$15.70` | [JLCPCB](https://jlcpcb.com) | 2-layer, 1.6mm, black, leaded Hasl | I wanted to get ENIG but that bumped the price by `$20` |
+| Total `$15.70` + `$13.04` shipping | | | | | |
 | | | | | | |
-| Choc v1 switches | 50 | `$27.50` | [Chosfox](https://chosfox.com/products/kailh-chocs?variant=42514648006850) | pink variant: `20+-5 gf` linear | `$0.55` per switch |
-| | | | | | |
+| Choc v1 switches | 50 | `$25.00` | [Chosfox](https://chosfox.com/products/kailh-chocs?variant=42514648006850) | pink variant: `20+-5 gf` linear | `$0.50` per switch |
 | Choc PG1350 | 50 | `$7.25` | [Chosfox](https://chosfox.com/products/kailh-choc-switch-1350-hot-swap-sockets) | hot swap sockets | `$0.145` per socket |
 | 1u keycaps | 40 | `$14.00` | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps) | White PBT low profile | `$0.35` per keycap |
 | 1u homing keycaps | 2 | `$0.80` | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps) | White PBT low profile | `$0.40` per keycap |
 | 1.5u keycaps | 2 | `$1.65` | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps) | White PBT low profile | `$0.83` per keycap |
-| Total cost: `$24.10` | | | | average of `$0.41` per keycap | |
+| Total cost: `$41.45` + `$8` shipping | | | | average of `$0.37` per keycap | |
 | | | | | | |
-| SuperMini NRF52840 (Nice!Nano footprint) | 2 | `$8.30` | [AliExpress](https://www.aliexpress.us/item/3256805848952479.html) | Wireless Microcontroller | `$4.15` per MCU |
+| SuperMini NRF52840 (Nice!Nano footprint) | 2 | `$8.08` | [AliExpress](https://www.aliexpress.us/item/3256805848952479.html) | Wireless Microcontroller | `$4.04` per MCU |
+| 301230 3.7V 110mAh LiPo Battery | 2 | `$7.50` | [AliExpress](https://www.aliexpress.us/item/2255799987926232.html) | the non jst ones are cheaper but the crimper is 60 bucks and there is no way im buying that | `$3.75` per battery |
+| Diodes | 42 | `$0.99` | [Aliexpress](https://www.aliexpress.us/item/2255800939822415.html) | 1N4148 | `$0.01` per diode |
+| Machine Pins | 1 | `$6.84` | [AliExpress](https://www.aliexpress.us/item/2251832672116019.html) | 26x2 needed to socket the two MCUs | comes in a 100 pack of 4 per header |
+| Machine Sockets 2.54mm | 1 | `$3.65` | [AliExpress](https://www.aliexpress.us/item/2251832794091942.html) | 26x2 needed to socket the two MCUs | comes in a 10 pack of 40x1 rows |
+| Total cost: `$24.59` + `$13.96` shipping | | | | | |
 | | | | | | |
-| Machine Sockets 2.54mm | 1 | `$1.75` | [AliExpress](https://www.aliexpress.us/item/2251832794091942.html) | 26x2 needed to socket the two MCUs | comes in a 10 pack of 40x1 rows |
-| Machine Pins | 1 | `$3.99` | [AliExpress](https://www.aliexpress.us/item/2251832672116019.html) | 26x2 needed to socket the two MCUs | comes in a 100 pack of 4 per header |
 | Power Switch | 4 | `$0.39` | [DigiKey](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SLW-1277744-3A-N-D/24399208) | added an extra switch for each side as backup | `$0.10` per switch |
 | JST PH 2.0mm 2-pin Connector | 4 | `$0.40` | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626) | | `$0.10` per connector |
-| Diodes | 42 | `$1.43` | [DigiKey](https://www.digikey.com/en/products/detail/diotec-semiconductor/1N4148/13164514) | 1N4148 | `$0.03` per diode |
-| Total cost: `$7.66` | | | | | |
-| | | | | | |
-| 301230 3.7V 110mAh LiPo Battery | 2 | `$6.30` | [AliExpress](https://www.aliexpress.us/item/3256805162053912.html) | the non jst ones are cheaper but the crimper is 60 bucks and there is no way im buying that | `$3.15` per battery |
+| Total cost: `$1.96` + `$8.15` tarrif/sales tax/shipping | i cant find good matches for these on ali and shipping is ridiculous rn as well | | | | |
 
-Total cost: `$92.36`  
+Total cost: `$126.85`  
 
 ### Shipping / Tax / Tariffs / Per store shopping list
 
@@ -40,7 +40,7 @@ Total cost: `$92.36`
 | --- | --- | --- | --- | --- |
 | AliExpress | `$9.43` | `$26.64` | `$36.07` | 2x SuperMini NRF52840, Machine Sockets, Machine Pins, 2x LiPo Battery |
 | DigiKey | `$6.99` | `$4.49` (tarrifs and tax) | `$11.48` | 4x Power Switch, 4x JST Connector, 42x Diodes |
-| Chosfox | `$6.50` | `$51.20` | `$57.70` | 50x Choc v1 switches, 40x 1u keycaps, 2x 1u homing keycaps, 2x 1.5u keycaps |
+| Chosfox | `$8` | `$48.70` | `$56.70` | 50x Choc v1 switches, 40x 1u keycaps, 2x 1u homing keycaps, 2x 1.5u keycaps |
 | JLCPCB | `$10.55` | `$14.60` | `$25.15` | 1x PCB |
 
 Total shipping: `$31.97`  
