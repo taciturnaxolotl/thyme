@@ -17,7 +17,7 @@
 | 1u keycaps                                              | 40                                                                              | `$14.00` | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps)                | White PBT low profile                                                                       | `$0.35` per keycap                                      |
 | 1u homing keycaps                                       | 2                                                                               | `$0.80`  | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps)                | White PBT low profile                                                                       | `$0.40` per keycap                                      |
 | 1.5u keycaps                                            | 2                                                                               | `$1.65`  | [Chosfox](https://chosfox.com/collections/low-profile-keycaps/products/chocfox-cfx-choc-keycaps)                | White PBT low profile                                                                       | `$0.83` per keycap                                      |
-| Total cost: `$41.45` + `$8` shipping                    |                                                                                 |          |                                                                                                                 | average of `$0.37` per keycap                                                               |                                                         |
+| Total cost: `$48.70` + `$8` shipping                    |                                                                                 |          |                                                                                                                 | average of `$0.37` per keycap                                                               |                                                         |
 |                                                         |                                                                                 |          |                                                                                                                 |                                                                                             |                                                         |
 | SuperMini NRF52840 (Nice!Nano footprint)                | 2                                                                               | `$8.08`  | [AliExpress](https://www.aliexpress.us/item/3256805848952479.html)                                              | Wireless Microcontroller                                                                    | `$4.04` per MCU                                         |
 | 301230 3.7V 110mAh LiPo Battery                         | 2                                                                               | `$7.50`  | [AliExpress](https://www.aliexpress.us/item/2255799987926232.html)                                              | the non jst ones are cheaper but the crimper is 60 bucks and there is no way im buying that | `$3.75` per battery                                     |
@@ -30,19 +30,16 @@
 | JST PH 2.0mm 2-pin Connector                            | 4                                                                               | `$0.40`  | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626)                   |                                                                                             | `$0.10` per connector                                   |
 | Total cost: `$1.96` + `$8.15` tarrif/sales tax/shipping | i cant find good matches for these on ali and shipping is ridiculous rn as well |          |                                                                                                                 |                                                                                             |                                                         |
 
-Total cost: `$126.85`
+Total cost: `$134.10`
 
 ### Shipping / Tax / Tariffs / Per store shopping list
 
-| Store      | Shipping | Subtotal                  | Total    | Items                                                                       |
-| ---------- | -------- | ------------------------- | -------- | --------------------------------------------------------------------------- |
-| AliExpress | `$9.43`  | `$26.64`                  | `$36.07` | 2x SuperMini NRF52840, Machine Sockets, Machine Pins, 2x LiPo Battery       |
-| DigiKey    | `$6.99`  | `$4.49` (tarrifs and tax) | `$11.48` | 4x Power Switch, 4x JST Connector, 42x Diodes                               |
-| Chosfox    | `$8`     | `$48.70`                  | `$56.70` | 50x Choc v1 switches, 40x 1u keycaps, 2x 1u homing keycaps, 2x 1.5u keycaps |
-| JLCPCB     | `$10.55` | `$14.60`                  | `$25.15` | 1x PCB                                                                      |
-
-Total shipping: `$31.97`  
-Total cost: `$122.67` (including shipping, tax, and tarrifs)
+| Store      | Shipping                      | Subtotal | Total    | Items                                                                             |
+| ---------- | ----------------------------- | -------- | -------- | --------------------------------------------------------------------------------- |
+| AliExpress | `$13.96`                      | `$24.59` | `$38.55` | 2x SuperMini NRF52840, Machine Sockets, Machine Pins, 2x LiPo Battery, 42x diodes |
+| DigiKey    | `$8.15` (tarrifs and tax too) | `$1.96`  | `$10.11` | 4x Power Switch, 4x JST Connector                                                 |
+| Chosfox    | `$8`                          | `$48.70` | `$56.70` | 50x Choc v1 switches, 40x 1u keycaps, 2x 1u homing keycaps, 2x 1.5u keycaps       |
+| JLCPCB     | `$13.04`                      | `$15.70` | `$28.74` | 1x PCB                                                                            |
 
 ## Schematics
 
